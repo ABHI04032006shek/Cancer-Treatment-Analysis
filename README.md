@@ -54,7 +54,7 @@ The dataset contains:
 
 ## Age Distribution Analysis
 
-![Age Distribution](images/Age distribution.png)
+![Age Distribution](images/Age_distribution.png)
 
 ![Age Distribution](images/age.png.png)
 
