@@ -45,18 +45,18 @@ The dataset contains:
 # 📸 Project Screenshots
 
 ## DATA 
-![DATA](images/Data1.png)
+![DATA](IMAGES/Data1.png)
  
-![DATA](images/Data2.png)
+![DATA](IMAGES/Data2.png)
 
-![DATA](images/Data3.png)
+![DATA](IMAGES/Data3.png)
 
 
 ## Age Distribution Analysis
 
-![Age Distribution](images/Age_distribution.png)
+![Age Distribution](IMAGES/Age_distribution.png)
 
-![Age Distribution](images/age.png.png)
+![Age Distribution](IMAGES/age.png.png)
 
 
 *Most cancer cases are concentrated between 40–70 years of age.*
@@ -65,19 +65,19 @@ The dataset contains:
 
 ## Geographical Analysis
 
-![Geographical](images/geo1.png)
+![Geographical](IMAGES/geo1.png)
 
-![Geographical](images/geo2.png)
+![Geographical](IMAGES/geo2.png)
 
-![Geographical](images/geo3.png)
+![Geographical](IMAGES/geo3.png)
 
 ## Survival Analysis
 
-![Survival Analysis](images/survival1.png)
+![Survival Analysis](IMAGES/survival1.png)
 
-![Survival Analysis](images/survival2.png)
+![Survival Analysis](IMAGES/survival2.png)
 
-![Survival Analysis](images/survival3.png)
+![Survival Analysis](IMAGES/survival3.png)
 
 *Younger patients show higher average survival months compared to older patients.*
 
@@ -85,7 +85,7 @@ The dataset contains:
 
 ## Prediction
 
-![Prediction](images/predicition.png)
+![Prediction](IMAGES/predicition.png)
 
 ---
 
